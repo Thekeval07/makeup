@@ -211,7 +211,7 @@ const Navbar = () => {
                 <div className="header__option__right">
                   <div className="search__option search-switch">
                     <Link to='search'>
-                        <img src={search} />
+                        <img alt="" src={search} />
                     </Link>
                   </div>
                   <a href="#" className="primary-btn">
